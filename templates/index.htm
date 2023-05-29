@@ -1,0 +1,17 @@
+{% extends "_base.htm" %}
+
+{% block title %}
+	Home
+{% endblock %}
+
+{% block pageblock %}
+	<div id="up">
+		<h1>Research Paper Classification<br/><br/></h1>
+		
+		<h3>Model used: BERT</h3>
+		<h4>{{note}}</h4>
+		
+	</div>
+{% include 'form.htm' %}
+
+{% endblock %}

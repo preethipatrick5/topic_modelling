@@ -1,0 +1,841 @@
+Abstract,Computer Science,Physics,Mathematics,Statistics,Quantitative Biology,Quantitative Finance
+"""  We use the hydrodynamical galaxy formation simulations from the Illustris
+suite to study the origin and properties of galaxy velocity bias, i.e., the
+difference between the velocity distributions of galaxies and dark matter
+inside halos. We find that galaxy velocity bias is a decreasing function of the
+ratio of galaxy stellar mass to host halo mass. In general, central galaxies
+are not at rest with respect to dark matter halos or the core of halos, with a
+velocity dispersion above 0.04 times that of the dark matter. The central
+galaxy velocity bias is found to be mostly caused by the close interactions
+between the central and satellite galaxies. For satellite galaxies, the
+velocity bias is related to their dynamical and tidal evolution history after
+being accreted onto the host halos. It depends on the time after the accretion
+and their distances from the halo centers, with massive satellites generally
+moving more slowly than the dark matter. The results are in broad agreements
+with those inferred from modeling small-scale redshift-space galaxy clustering
+data, and the study can help improve models of redshift-space galaxy
+clustering.
+""
+",0,1,0,0,0,0
+"""  In this note we prove in the nonlinear setting of $CD(K,\infty)$ spaces the
+stability of the Krasnoselskii spectrum of the Laplace operator $-\Delta$ under
+measured Gromov-Hausdorff convergence, under an additional compactness
+assumption satisfied, for instance, by sequences of $CD^*(K,N)$ metric measure
+spaces with uniformly bounded diameter. Additionally, we show that every
+element $\lambda$ in the Krasnoselskii spectrum is indeed an eigenvalue, namely
+there exists a nontrivial $u$ satisfying the eigenvalue equation $- \Delta u =
+\lambda u$.
+""
+",0,0,1,0,0,0
+"""  In this note we prove in the nonlinear setting of $CD(K,\infty)$ spaces the
+stability of the Krasnoselskii spectrum of the Laplace operator $-\Delta$ under
+measured Gromov-Hausdorff convergence, under an additional compactness
+assumption satisfied, for instance, by sequences of $CD^*(K,N)$ metric measure
+spaces with uniformly bounded diameter. Additionally, we show that every
+element $\lambda$ in the Krasnoselskii spectrum is indeed an eigenvalue, namely
+there exists a nontrivial $u$ satisfying the eigenvalue equation $- \Delta u =
+\lambda u$.
+""
+",0,0,1,0,0,0
+"""  Load balancing is a common approach in web server farms or inventory routing
+problems. An important issue in such systems is to determine the server to
+which an incoming request should be routed to optimize a given performance
+criteria. In this paper, we assume the server's scheduling disciplines to be
+heterogeneous. More precisely, a server implements a scheduling discipline
+which belongs to the class of limited processor sharing (LPS-$d$) scheduling
+disciplines. Under LPS-$d$, up to $d$ jobs can be served simultaneously, and
+hence, includes as special cases First Come First Served ($d=1$) and Processor
+Sharing ($d=\infty$).
+In order to obtain efficient heuristics, we model the above load-balancing
+framework as a multi-armed restless bandit problem. Using the relaxation
+technique, as first developed in the seminal work of Whittle, we derive
+Whittle's index policy for general cost functions and obtain a closed-form
+expression for Whittle's index in terms of the steady-state distribution.
+Through numerical computations, we investigate the performance of Whittle's
+index with two different performance criteria: linear cost criterion and a cost
+criterion that depends on the first and second moment of the throughput. Our
+results show that \emph{(i)} the structure of Whittle's index policy can
+strongly depend on the scheduling discipline implemented in the server, i.e.,
+on $d$, and that \emph{(ii)} Whittle's index policy significantly outperforms
+standard dispatching rules such as Join the Shortest Queue (JSQ), Join the
+Shortest Expected Workload (JSEW), and Random Server allocation (RSA).
+""
+",1,0,0,0,0,0
+"""  Load balancing is a common approach in web server farms or inventory routing
+problems. An important issue in such systems is to determine the server to
+which an incoming request should be routed to optimize a given performance
+criteria. In this paper, we assume the server's scheduling disciplines to be
+heterogeneous. More precisely, a server implements a scheduling discipline
+which belongs to the class of limited processor sharing (LPS-$d$) scheduling
+disciplines. Under LPS-$d$, up to $d$ jobs can be served simultaneously, and
+hence, includes as special cases First Come First Served ($d=1$) and Processor
+Sharing ($d=\infty$).
+In order to obtain efficient heuristics, we model the above load-balancing
+framework as a multi-armed restless bandit problem. Using the relaxation
+technique, as first developed in the seminal work of Whittle, we derive
+Whittle's index policy for general cost functions and obtain a closed-form
+expression for Whittle's index in terms of the steady-state distribution.
+Through numerical computations, we investigate the performance of Whittle's
+index with two different performance criteria: linear cost criterion and a cost
+criterion that depends on the first and second moment of the throughput. Our
+results show that \emph{(i)} the structure of Whittle's index policy can
+strongly depend on the scheduling discipline implemented in the server, i.e.,
+on $d$, and that \emph{(ii)} Whittle's index policy significantly outperforms
+standard dispatching rules such as Join the Shortest Queue (JSQ), Join the
+Shortest Expected Workload (JSEW), and Random Server allocation (RSA).
+""
+",1,0,0,0,0,0
+"""  Cellular electron cryo-tomography enables the 3D visualization of cellular
+organization in the near-native state and at submolecular resolution. However,
+the contents of cellular tomograms are often complex, making it difficult to
+automatically isolate different in situ cellular components. In this paper, we
+propose a convolutional autoencoder-based unsupervised approach to provide a
+coarse grouping of 3D small subvolumes extracted from tomograms. We demonstrate
+that the autoencoder can be used for efficient and coarse characterization of
+features of macromolecular complexes and surfaces, such as membranes. In
+addition, the autoencoder can be used to detect non-cellular features related
+to sample preparation and data collection, such as carbon edges from the grid
+and tomogram boundaries. The autoencoder is also able to detect patterns that
+may indicate spatial interactions between cellular components. Furthermore, we
+demonstrate that our autoencoder can be used for weakly supervised semantic
+segmentation of cellular components, requiring a very small amount of manual
+annotation.
+""
+",0,0,0,0,1,0
+"""  A linear code with a complementary dual (or LCD code) is defined to be a
+linear code $C$ whose dual code $C^{\perp}$ satisfies $C \cap C^{\perp}$=
+$\left\{ \mathbf{0}\right\} $. Let $LCD{[}n,k{]}$ denote the maximum of
+possible values of $d$ among $[n,k,d]$ binary LCD codes. We give exact values
+of $LCD{[}n,k{]}$ for $1 \le k \le n \le 12$.
+We also show that $LCD[n,n-i]=2$ for any $i\geq2$ and $n\geq2^{i}$.
+Furthermore, we show that $LCD[n,k]\leq LCD[n,k-1]$ for $k$ odd and
+$LCD[n,k]\leq LCD[n,k-2]$ for $k$ even.
+""
+",1,0,0,0,0,0
+"""  A linear code with a complementary dual (or LCD code) is defined to be a
+linear code $C$ whose dual code $C^{\perp}$ satisfies $C \cap C^{\perp}$=
+$\left\{ \mathbf{0}\right\} $. Let $LCD{[}n,k{]}$ denote the maximum of
+possible values of $d$ among $[n,k,d]$ binary LCD codes. We give exact values
+of $LCD{[}n,k{]}$ for $1 \le k \le n \le 12$.
+We also show that $LCD[n,n-i]=2$ for any $i\geq2$ and $n\geq2^{i}$.
+Furthermore, we show that $LCD[n,k]\leq LCD[n,k-1]$ for $k$ odd and
+$LCD[n,k]\leq LCD[n,k-2]$ for $k$ even.
+""
+",1,0,0,0,0,0
+"""  A linear code with a complementary dual (or LCD code) is defined to be a
+linear code $C$ whose dual code $C^{\perp}$ satisfies $C \cap C^{\perp}$=
+$\left\{ \mathbf{0}\right\} $. Let $LCD{[}n,k{]}$ denote the maximum of
+possible values of $d$ among $[n,k,d]$ binary LCD codes. We give exact values
+of $LCD{[}n,k{]}$ for $1 \le k \le n \le 12$.
+We also show that $LCD[n,n-i]=2$ for any $i\geq2$ and $n\geq2^{i}$.
+Furthermore, we show that $LCD[n,k]\leq LCD[n,k-1]$ for $k$ odd and
+$LCD[n,k]\leq LCD[n,k-2]$ for $k$ even.
+""
+",1,0,0,0,0,0
+"""  In this work we establish the first linear convergence result for the
+stochastic heavy ball method. The method performs SGD steps with a fixed
+stepsize, amended by a heavy ball momentum term. In the analysis, we focus on
+minimizing the expected loss and not on finite-sum minimization, which is
+typically a much harder problem. While in the analysis we constrain ourselves
+to quadratic loss, the overall objective is not necessarily strongly convex.
+""
+",0,0,0,1,0,0
+"""  This paper proposes a new framework for estimating instrumental variable (IV)
+quantile models. The first part of our proposal can be cast as a mixed integer
+linear program (MILP), which allows us to capitalize on recent progress in
+mixed integer optimization. The computational advantage of the proposed method
+makes it an attractive alternative to existing estimators in the presence of
+multiple endogenous regressors. This is a situation that arises naturally when
+one endogenous variable is interacted with several other variables in a
+regression equation. In our simulations, the proposed method using MILP with a
+random starting point can reliably estimate regressions for a sample size of
+500 with 20 endogenous variables in 5 seconds. Theoretical results for early
+termination of MILP are also provided. The second part of our proposal is a
+$k$-step correction framework, which is proved to be able to convert any point
+within a small but fixed neighborhood of the true parameter value into an
+estimate that is asymptotically equivalent to GMM. Our result does not require
+the initial estimate to be consistent and only $2\log n$ iterations are needed.
+Since the $k$-step correction does not require any optimization, applying the
+$k$-step correction to MILP estimate provides a computationally attractive way
+of obtaining efficient estimators. When dealing with very large data sets, we
+can run the MILP algorithm on only a small subsample and our theoretical
+results guarantee that the resulting estimator from the $k$-step correction is
+equivalent to computing GMM on the full sample. As a result, we can handle
+massive datasets of millions of observations within seconds. As an empirical
+illustration, we examine the heterogeneous treatment effect of Job Training
+Partnership Act (JTPA) using a regression with 13 interaction terms of the
+treatment variable.
+""
+",0,0,0,1,0,0
+"""  The Parallel Meaning Bank is a corpus of translations annotated with shared,
+formal meaning representations comprising over 11 million words divided over
+four languages (English, German, Italian, and Dutch). Our approach is based on
+cross-lingual projection: automatically produced (and manually corrected)
+semantic annotations for English sentences are mapped onto their word-aligned
+translations, assuming that the translations are meaning-preserving. The
+semantic annotation consists of five main steps: (i) segmentation of the text
+in sentences and lexical items; (ii) syntactic parsing with Combinatory
+Categorial Grammar; (iii) universal semantic tagging; (iv) symbolization; and
+(v) compositional semantic analysis based on Discourse Representation Theory.
+These steps are performed using statistical models trained in a semi-supervised
+manner. The employed annotation models are all language-neutral. Our first
+results are promising.
+""
+",1,0,0,0,0,0
+"""  We revisit the confinement-induced p-wave resonance in quasi-one-dimensional
+(quasi-1D) atomic gases and study the induced molecules near resonance. We
+derive the reduced 1D interaction parameters and show that they can well
+predict the binding energy of shallow molecules in quasi-1D system.
+Importantly, these shallow molecules are found to be much more spatially
+extended compared to those in three dimensions (3D) without transverse
+confinement. Our results strongly indicate that a p-wave interacting atomic gas
+can be much more stable in quasi-1D near the induced p-wave resonance, where
+most weight of the molecule lies outside the short-range regime and thus the
+atom loss could be suppressed.
+""
+",0,1,0,0,0,0
+"""  Multiple automakers have in development or in production automated driving
+systems (ADS) that offer freeway-pilot functions. This type of ADS is typically
+limited to restricted-access freeways only, that is, the transition from manual
+to automated modes takes place only after the ramp merging process is completed
+manually. One major challenge to extend the automation to ramp merging is that
+the automated vehicle needs to incorporate and optimize long-term objectives
+(e.g. successful and smooth merge) when near-term actions must be safely
+executed. Moreover, the merging process involves interactions with other
+vehicles whose behaviors are sometimes hard to predict but may influence the
+merging vehicle optimal actions. To tackle such a complicated control problem,
+we propose to apply Deep Reinforcement Learning (DRL) techniques for finding an
+optimal driving policy by maximizing the long-term reward in an interactive
+environment. Specifically, we apply a Long Short-Term Memory (LSTM)
+architecture to model the interactive environment, from which an internal state
+containing historical driving information is conveyed to a Deep Q-Network
+(DQN). The DQN is used to approximate the Q-function, which takes the internal
+state as input and generates Q-values as output for action selection. With this
+DRL architecture, the historical impact of interactive environment on the
+long-term reward can be captured and taken into account for deciding the
+optimal control policy. The proposed architecture has the potential to be
+extended and applied to other autonomous driving scenarios such as driving
+through a complex intersection or changing lanes under varying traffic flow
+conditions.
+""
+",1,0,0,0,0,0
+"""  Multiple automakers have in development or in production automated driving
+systems (ADS) that offer freeway-pilot functions. This type of ADS is typically
+limited to restricted-access freeways only, that is, the transition from manual
+to automated modes takes place only after the ramp merging process is completed
+manually. One major challenge to extend the automation to ramp merging is that
+the automated vehicle needs to incorporate and optimize long-term objectives
+(e.g. successful and smooth merge) when near-term actions must be safely
+executed. Moreover, the merging process involves interactions with other
+vehicles whose behaviors are sometimes hard to predict but may influence the
+merging vehicle optimal actions. To tackle such a complicated control problem,
+we propose to apply Deep Reinforcement Learning (DRL) techniques for finding an
+optimal driving policy by maximizing the long-term reward in an interactive
+environment. Specifically, we apply a Long Short-Term Memory (LSTM)
+architecture to model the interactive environment, from which an internal state
+containing historical driving information is conveyed to a Deep Q-Network
+(DQN). The DQN is used to approximate the Q-function, which takes the internal
+state as input and generates Q-values as output for action selection. With this
+DRL architecture, the historical impact of interactive environment on the
+long-term reward can be captured and taken into account for deciding the
+optimal control policy. The proposed architecture has the potential to be
+extended and applied to other autonomous driving scenarios such as driving
+through a complex intersection or changing lanes under varying traffic flow
+conditions.
+""
+",1,0,0,0,0,0
+"""  Multiple automakers have in development or in production automated driving
+systems (ADS) that offer freeway-pilot functions. This type of ADS is typically
+limited to restricted-access freeways only, that is, the transition from manual
+to automated modes takes place only after the ramp merging process is completed
+manually. One major challenge to extend the automation to ramp merging is that
+the automated vehicle needs to incorporate and optimize long-term objectives
+(e.g. successful and smooth merge) when near-term actions must be safely
+executed. Moreover, the merging process involves interactions with other
+vehicles whose behaviors are sometimes hard to predict but may influence the
+merging vehicle optimal actions. To tackle such a complicated control problem,
+we propose to apply Deep Reinforcement Learning (DRL) techniques for finding an
+optimal driving policy by maximizing the long-term reward in an interactive
+environment. Specifically, we apply a Long Short-Term Memory (LSTM)
+architecture to model the interactive environment, from which an internal state
+containing historical driving information is conveyed to a Deep Q-Network
+(DQN). The DQN is used to approximate the Q-function, which takes the internal
+state as input and generates Q-values as output for action selection. With this
+DRL architecture, the historical impact of interactive environment on the
+long-term reward can be captured and taken into account for deciding the
+optimal control policy. The proposed architecture has the potential to be
+extended and applied to other autonomous driving scenarios such as driving
+through a complex intersection or changing lanes under varying traffic flow
+conditions.
+""
+",1,0,0,0,0,0
+"""  Multiple automakers have in development or in production automated driving
+systems (ADS) that offer freeway-pilot functions. This type of ADS is typically
+limited to restricted-access freeways only, that is, the transition from manual
+to automated modes takes place only after the ramp merging process is completed
+manually. One major challenge to extend the automation to ramp merging is that
+the automated vehicle needs to incorporate and optimize long-term objectives
+(e.g. successful and smooth merge) when near-term actions must be safely
+executed. Moreover, the merging process involves interactions with other
+vehicles whose behaviors are sometimes hard to predict but may influence the
+merging vehicle optimal actions. To tackle such a complicated control problem,
+we propose to apply Deep Reinforcement Learning (DRL) techniques for finding an
+optimal driving policy by maximizing the long-term reward in an interactive
+environment. Specifically, we apply a Long Short-Term Memory (LSTM)
+architecture to model the interactive environment, from which an internal state
+containing historical driving information is conveyed to a Deep Q-Network
+(DQN). The DQN is used to approximate the Q-function, which takes the internal
+state as input and generates Q-values as output for action selection. With this
+DRL architecture, the historical impact of interactive environment on the
+long-term reward can be captured and taken into account for deciding the
+optimal control policy. The proposed architecture has the potential to be
+extended and applied to other autonomous driving scenarios such as driving
+through a complex intersection or changing lanes under varying traffic flow
+conditions.
+""
+",1,0,0,0,0,0
+"""  Lack of conservation has been the biggest drawback in meshfree generalized
+finite difference methods (GFDMs). In this paper, we present a novel
+modification of classical meshfree GFDMs to include local balances which
+produce an approximate conservation of numerical fluxes. This numerical flux
+conservation is done within the usual moving least squares framework. Unlike
+Finite Volume Methods, it is based on locally defined control cells, rather
+than a globally defined mesh. We present the application of this method to an
+advection diffusion equation and the incompressible Navier - Stokes equations.
+Our simulations show that the introduction of flux conservation significantly
+reduces the errors in conservation in meshfree GFDMs.
+""
+",0,1,0,0,0,0
+"""  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+""
+",0,0,0,1,0,0
+"""  The classical Eilenberg correspondence, based on the concept of the syntactic
+monoid, relates varieties of regular languages with pseudovarieties of finite
+monoids. Various modifications of this correspondence appeared, with more
+general classes of regular languages on one hand and classes of more complex
+algebraic structures on the other hand. For example, classes of languages need
+not be closed under complementation or all preimages under homomorphisms, while
+monoids can be equipped with a compatible order or they can have a
+distinguished set of generators. Such generalized varieties and pseudovarieties
+also have natural counterparts formed by classes of finite (ordered) automata.
+In this paper the previous approaches are combined. The notion of positive
+$\mathcal C$-varieties of ordered semiautomata (i.e. no initial and final
+states are specified) is introduced and their correspondence with positive
+$\mathcal C$-varieties of languages is proved.
+""
+
+",1,0,1,0,0,0
+"""  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+""
+",0,0,0,1,0,0
+"""  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+""
+",0,0,0,1,0,0
+"""  We use the hydrodynamical galaxy formation simulations from the Illustris
+suite to study the origin and properties of galaxy velocity bias, i.e., the
+difference between the velocity distributions of galaxies and dark matter
+inside halos. We find that galaxy velocity bias is a decreasing function of the
+ratio of galaxy stellar mass to host halo mass. In general, central galaxies
+are not at rest with respect to dark matter halos or the core of halos, with a
+velocity dispersion above 0.04 times that of the dark matter. The central
+galaxy velocity bias is found to be mostly caused by the close interactions
+between the central and satellite galaxies. For satellite galaxies, the
+velocity bias is related to their dynamical and tidal evolution history after
+being accreted onto the host halos. It depends on the time after the accretion
+and their distances from the halo centers, with massive satellites generally
+moving more slowly than the dark matter. The results are in broad agreements
+with those inferred from modeling small-scale redshift-space galaxy clustering
+data, and the study can help improve models of redshift-space galaxy
+clustering.
+""
+",0,1,0,0,0,0
+"""  We demonstrate that spin supercurrents are conserved upon transmission
+through a conventional superconductor, even in the presence of spin-dependent
+scattering by impurities with magnetic moments or spin-orbit coupling. This is
+fundamentally different from conventional spin currents, which decay in the
+presence of such scattering, and this has important implications for the usage
+of superconducting materials in spintronic hybrid structures.
+""
+",0,1,0,0,0,0
+"""  Social media platforms provide continuous access to user generated content
+that enables real-time monitoring of user behavior and of events. The
+geographical dimension of such user behavior and events has recently caught a
+lot of attention in several domains: mobility, humanitarian, or
+infrastructural. While resolving the location of a user can be straightforward,
+depending on the affordances of their device and/or of the application they are
+using, in most cases, locating a user demands a larger effort, such as
+exploiting textual features. On Twitter for instance, only 2% of all tweets are
+geo-referenced. In this paper, we present a system for zoomed-in grounding
+(below city level) for short messages (e.g., tweets). The system combines
+different natural language processing and machine learning techniques to
+increase the number of geo-grounded tweets, which is essential to many
+applications such as disaster response and real-time traffic monitoring.
+""
+",1,0,0,0,0,0
+"""  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+""
+",0,0,0,1,0,0
+"""  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+""
+",0,0,0,1,0,0
+"""  Rare regions with weak disorder (Griffiths regions) have the potential to
+spoil localization. We describe a non-perturbative construction of local
+integrals of motion (LIOMs) for a weakly interacting spin chain in one
+dimension, under a physically reasonable assumption on the statistics of
+eigenvalues. We discuss ideas about the situation in higher dimensions, where
+one can no longer ensure that interactions involving the Griffiths regions are
+much smaller than the typical energy-level spacing for such regions. We argue
+that ergodicity is restored in dimension d > 1, although equilibration should
+be extremely slow, similar to the dynamics of glasses.
+""
+",0,1,0,0,0,0
+"""  We propose a new multivariate dependency measure. It is obtained by
+considering a Gaussian kernel based distance between the copula transform of
+the given d-dimensional distribution and the uniform copula and then
+appropriately normalizing it. The resulting measure is shown to satisfy a
+number of desirable properties. A nonparametric estimate is proposed for this
+dependency measure and its properties (finite sample as well as asymptotic) are
+derived. Some comparative studies of the proposed dependency measure estimate
+with some widely used dependency measure estimates on artificial datasets are
+included. A non-parametric test of independence between two or more random
+variables based on this measure is proposed. A comparison of the proposed test
+with some existing nonparametric multivariate test for independence is
+presented.
+""
+",1,0,0,1,0,0
+"""  We propose a new multivariate dependency measure. It is obtained by
+considering a Gaussian kernel based distance between the copula transform of
+the given d-dimensional distribution and the uniform copula and then
+appropriately normalizing it. The resulting measure is shown to satisfy a
+number of desirable properties. A nonparametric estimate is proposed for this
+dependency measure and its properties (finite sample as well as asymptotic) are
+derived. Some comparative studies of the proposed dependency measure estimate
+with some widely used dependency measure estimates on artificial datasets are
+included. A non-parametric test of independence between two or more random
+variables based on this measure is proposed. A comparison of the proposed test
+with some existing nonparametric multivariate test for independence is
+presented.
+""
+",1,0,0,1,0,0
+"""  Subject of research is complex networks and network systems. The network
+system is defined as a complex network in which flows are moved. Classification
+of flows in the network is carried out on the basis of ordering and continuity.
+It is shown that complex networks with different types of flows generate
+various network systems. Flow analogues of the basic concepts of the theory of
+complex networks are introduced and the main problems of this theory in terms
+of flow characteristics are formulated. Local and global flow characteristics
+of networks bring closer the theory of complex networks to the systems theory
+and systems analysis. Concept of flow core of network system is introduced and
+defined how it simplifies the process of its investigation. Concepts of kernel
+and flow core of multiplex are determined. Features of operation of multiplex
+type systems are analyzed.
+""
+",1,0,0,0,0,0
+"""  In this work, we establish a full single-letter characterization of the
+rate-distortion region of an instance of the Gray-Wyner model with side
+information at the decoders. Specifically, in this model an encoder observes a
+pair of memoryless, arbitrarily correlated, sources $(S^n_1,S^n_2)$ and
+communicates with two receivers over an error-free rate-limited link of
+capacity $R_0$, as well as error-free rate-limited individual links of
+capacities $R_1$ to the first receiver and $R_2$ to the second receiver. Both
+receivers reproduce the source component $S^n_2$ losslessly; and Receiver $1$
+also reproduces the source component $S^n_1$ lossily, to within some prescribed
+fidelity level $D_1$. Also, Receiver $1$ and Receiver $2$ are equipped
+respectively with memoryless side information sequences $Y^n_1$ and $Y^n_2$.
+Important in this setup, the side information sequences are arbitrarily
+correlated among them, and with the source pair $(S^n_1,S^n_2)$; and are not
+assumed to exhibit any particular ordering. Furthermore, by specializing the
+main result to two Heegard-Berger models with successive refinement and
+scalable coding, we shed light on the roles of the common and private
+descriptions that the encoder should produce and what they should carry
+optimally. We develop intuitions by analyzing the developed single-letter
+optimal rate-distortion regions of these models, and discuss some insightful
+binary examples.
+""
+",1,0,0,0,0,0
+"""  In this work, we establish a full single-letter characterization of the
+rate-distortion region of an instance of the Gray-Wyner model with side
+information at the decoders. Specifically, in this model an encoder observes a
+pair of memoryless, arbitrarily correlated, sources $(S^n_1,S^n_2)$ and
+communicates with two receivers over an error-free rate-limited link of
+capacity $R_0$, as well as error-free rate-limited individual links of
+capacities $R_1$ to the first receiver and $R_2$ to the second receiver. Both
+receivers reproduce the source component $S^n_2$ losslessly; and Receiver $1$
+also reproduces the source component $S^n_1$ lossily, to within some prescribed
+fidelity level $D_1$. Also, Receiver $1$ and Receiver $2$ are equipped
+respectively with memoryless side information sequences $Y^n_1$ and $Y^n_2$.
+Important in this setup, the side information sequences are arbitrarily
+correlated among them, and with the source pair $(S^n_1,S^n_2)$; and are not
+assumed to exhibit any particular ordering. Furthermore, by specializing the
+main result to two Heegard-Berger models with successive refinement and
+scalable coding, we shed light on the roles of the common and private
+descriptions that the encoder should produce and what they should carry
+optimally. We develop intuitions by analyzing the developed single-letter
+optimal rate-distortion regions of these models, and discuss some insightful
+binary examples.
+""
+",1,0,0,0,0,0
+"""  Stimuli-responsive materials that modify their shape in response to changes
+in environmental conditions -- such as solute concentration, temperature, pH,
+and stress -- are widespread in nature and technology. Applications include
+micro- and nanoporous materials used in filtration and flow control. The
+physiochemical mechanisms that induce internal volume modifications have been
+widely studies. The coupling between induced volume changes and solute
+transport through porous materials, however, is not well understood. Here, we
+consider advective and diffusive transport through a small channel linking two
+large reservoirs. A section of stimulus-responsive material regulates the
+channel permeability, which is a function of the local solute concentration. We
+derive an exact solution to the coupled transport problem and demonstrate the
+existence of a flow regime in which the steady state is reached via a damped
+oscillation around the equilibrium concentration value. Finally, the
+feasibility of an experimental observation of the phenomena is discussed.
+Please note that this version of the paper has not been formally peer reviewed,
+revised or accepted by a journal.
+""
+",0,1,0,0,0,0
+"""  Stimuli-responsive materials that modify their shape in response to changes
+in environmental conditions -- such as solute concentration, temperature, pH,
+and stress -- are widespread in nature and technology. Applications include
+micro- and nanoporous materials used in filtration and flow control. The
+physiochemical mechanisms that induce internal volume modifications have been
+widely studies. The coupling between induced volume changes and solute
+transport through porous materials, however, is not well understood. Here, we
+consider advective and diffusive transport through a small channel linking two
+large reservoirs. A section of stimulus-responsive material regulates the
+channel permeability, which is a function of the local solute concentration. We
+derive an exact solution to the coupled transport problem and demonstrate the
+existence of a flow regime in which the steady state is reached via a damped
+oscillation around the equilibrium concentration value. Finally, the
+feasibility of an experimental observation of the phenomena is discussed.
+Please note that this version of the paper has not been formally peer reviewed,
+revised or accepted by a journal.
+""
+",0,1,0,0,0,0
+"""  This paper discusses minimum distance estimation method in the linear
+regression model with dependent errors which are strongly mixing. The
+regression parameters are estimated through the minimum distance estimation
+method, and asymptotic distributional properties of the estimators are
+discussed. A simulation study compares the performance of the minimum distance
+estimator with other well celebrated estimator. This simulation study shows the
+superiority of the minimum distance estimator over another estimator. KoulMde
+(R package) which was used for the simulation study is available online. See
+section 4 for the detail.
+""
+",0,0,1,1,0,0
+"""  This paper discusses minimum distance estimation method in the linear
+regression model with dependent errors which are strongly mixing. The
+regression parameters are estimated through the minimum distance estimation
+method, and asymptotic distributional properties of the estimators are
+discussed. A simulation study compares the performance of the minimum distance
+estimator with other well celebrated estimator. This simulation study shows the
+superiority of the minimum distance estimator over another estimator. KoulMde
+(R package) which was used for the simulation study is available online. See
+section 4 for the detail.
+""
+",0,0,1,1,0,0
+"""  Monte Carlo Tree Search (MCTS), most famously used in game-play artificial
+intelligence (e.g., the game of Go), is a well-known strategy for constructing
+approximate solutions to sequential decision problems. Its primary innovation
+is the use of a heuristic, known as a default policy, to obtain Monte Carlo
+estimates of downstream values for states in a decision tree. This information
+is used to iteratively expand the tree towards regions of states and actions
+that an optimal policy might visit. However, to guarantee convergence to the
+optimal action, MCTS requires the entire tree to be expanded asymptotically. In
+this paper, we propose a new technique called Primal-Dual MCTS that utilizes
+sampled information relaxation upper bounds on potential actions, creating the
+possibility of """"ignoring"""" parts of the tree that stem from highly suboptimal
+choices. This allows us to prove that despite converging to a partial decision
+tree in the limit, the recommended action from Primal-Dual MCTS is optimal. The
+new approach shows significant promise when used to optimize the behavior of a
+single driver navigating a graph while operating on a ride-sharing platform.
+Numerical experiments on a real dataset of 7,000 trips in New Jersey suggest
+that Primal-Dual MCTS improves upon standard MCTS by producing deeper decision
+trees and exhibits a reduced sensitivity to the size of the action space.
+""
+",1,0,0,0,0,0
+"""  The apparent gas permeability of the porous medium is an important parameter
+in the prediction of unconventional gas production, which was first
+investigated systematically by Klinkenberg in 1941 and found to increase with
+the reciprocal mean gas pressure (or equivalently, the Knudsen number).
+Although the underlying rarefaction effects are well-known, the reason that the
+correction factor in Klinkenberg's famous equation decreases when the Knudsen
+number increases has not been fully understood. Most of the studies idealize
+the porous medium as a bundle of straight cylindrical tubes, however, according
+to the gas kinetic theory, this only results in an increase of the correction
+factor with the Knudsen number, which clearly contradicts Klinkenberg's
+experimental observations. Here, by solving the Bhatnagar-Gross-Krook equation
+in simplified (but not simple) porous media, we identify, for the first time,
+two key factors that can explain Klinkenberg's experimental results: the
+tortuous flow path and the non-unitary tangential momentum accommodation
+coefficient for the gas-surface interaction. Moreover, we find that
+Klinkenberg's results can only be observed when the ratio between the apparent
+and intrinsic permeabilities is $\lesssim30$; at large ratios (or Knudsen
+numbers) the correction factor increases with the Knudsen number. Our numerical
+results could also serve as benchmarking cases to assess the accuracy of
+macroscopic models and/or numerical schemes for the modeling/simulation of
+rarefied gas flows in complex geometries over a wide range of gas rarefaction.
+""
+",0,1,0,0,0,0
+"""  Sparse superposition (SS) codes were originally proposed as a
+capacity-achieving communication scheme over the additive white Gaussian noise
+channel (AWGNC) [1]. Very recently, it was discovered that these codes are
+universal, in the sense that they achieve capacity over any memoryless channel
+under generalized approximate message-passing (GAMP) decoding [2], although
+this decoder has never been stated for SS codes. In this contribution we
+introduce the GAMP decoder for SS codes, we confirm empirically the
+universality of this communication scheme through its study on various channels
+and we provide the main analysis tools: state evolution and potential. We also
+compare the performance of GAMP with the Bayes-optimal MMSE decoder. We
+empirically illustrate that despite the presence of a phase transition
+preventing GAMP to reach the optimal performance, spatial coupling allows to
+boost the performance that eventually tends to capacity in a proper limit. We
+also prove that, in contrast with the AWGNC case, SS codes for binary input
+channels have a vanishing error floor in the limit of large codewords.
+Moreover, the performance of Hadamard-based encoders is assessed for practical
+implementations.
+""
+",1,0,0,0,0,0
+"""  Machine learning models, especially based on deep architectures are used in
+everyday applications ranging from self driving cars to medical diagnostics. It
+has been shown that such models are dangerously susceptible to adversarial
+samples, indistinguishable from real samples to human eye, adversarial samples
+lead to incorrect classifications with high confidence. Impact of adversarial
+samples is far-reaching and their efficient detection remains an open problem.
+We propose to use direct density ratio estimation as an efficient model
+agnostic measure to detect adversarial samples. Our proposed method works
+equally well with single and multi-channel samples, and with different
+adversarial sample generation methods. We also propose a method to use density
+ratio estimates for generating adversarial samples with an added constraint of
+preserving density ratio.
+""
+",1,0,0,1,0,0
+"""  Elasticity is a cloud property that enables applications and its execution
+systems to dynamically acquire and release shared computational resources on
+demand. Moreover, it unfolds the advantage of economies of scale in the cloud
+through a drop in the average costs of these shared resources. However, it is
+still an open challenge to achieve a perfect match between resource demand and
+provision in autonomous elasticity management. Resource adaptation decisions
+essentially involve a trade-off between economics and performance, which
+produces a gap between the ideal and actual resource provisioning. This gap, if
+not properly managed, can negatively impact the aggregate utility of a cloud
+customer in the long run. To address this limitation, we propose a technical
+debt-aware learning approach for autonomous elasticity management based on a
+reinforcement learning of elasticity debts in resource provisioning; the
+adaptation pursues strategic decisions that trades off economics against
+performance. We extend CloudSim and Burlap to evaluate our approach. The
+evaluation shows that a reinforcement learning of technical debts in elasticity
+obtains a higher utility for a cloud customer, while conforming expected levels
+of performance.
+""
+",1,0,0,0,0,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0
+"""  In evolutionary biology, the speciation history of living organisms is
+represented graphically by a phylogeny, that is, a rooted tree whose leaves
+correspond to current species and branchings indicate past speciation events.
+Phylogenies are commonly estimated from molecular sequences, such as DNA
+sequences, collected from the species of interest. At a high level, the idea
+behind this inference is simple: the further apart in the Tree of Life are two
+species, the greater is the number of mutations to have accumulated in their
+genomes since their most recent common ancestor. In order to obtain accurate
+estimates in phylogenetic analyses, it is standard practice to employ
+statistical approaches based on stochastic models of sequence evolution on a
+tree. For tractability, such models necessarily make simplifying assumptions
+about the evolutionary mechanisms involved. In particular, commonly omitted are
+insertions and deletions of nucleotides -- also known as indels.
+Properly accounting for indels in statistical phylogenetic analyses remains a
+major challenge in computational evolutionary biology. Here we consider the
+problem of reconstructing ancestral sequences on a known phylogeny in a model
+of sequence evolution incorporating nucleotide substitutions, insertions and
+deletions, specifically the classical TKF91 process. We focus on the case of
+dense phylogenies of bounded height, which we refer to as the taxon-rich
+setting, where statistical consistency is achievable. We give the first
+polynomial-time ancestral reconstruction algorithm with provable guarantees
+under constant rates of mutation. Our algorithm succeeds when the phylogeny
+satisfies the """"big bang"""" condition, a necessary and sufficient condition for
+statistical consistency in this context.
+""
+",0,0,0,1,1,0

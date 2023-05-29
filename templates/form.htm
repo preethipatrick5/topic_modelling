@@ -1,0 +1,13 @@
+<div id="down">
+	<h1>Multi-label classification using Bert</h1>
+	<form id="stats" method="post" action="/classify">
+		<textarea name="abstract" style="width:500px; height:300px;"></textarea>
+		<h4><input type="submit" name="submit" value="Submit" />
+		<input type="submit" name='cancel' value="Cancel" onclick="window.location='/';return false;" /><br/></h4>
+	</form>
+	{% if note %}
+	<h3 style="color: #11FFFF">
+		{{ result }}
+	</h3>
+	{% endif %}
+</div>
